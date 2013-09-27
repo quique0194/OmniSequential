@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1380279534 source:d:\documentos\workspace\cpp\omnisequential\main.cpp
+	<vector>
+	<windows.h>
+	<fstream>
+	<algorithm>
+	<fstream>
+	<iostream>
+	"l_distance.h"
+
+1380277556 d:\documentos\workspace\cpp\omnisequential\l_distance.h
+	<iostream>
+
