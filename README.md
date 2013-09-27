@@ -1,0 +1,4 @@
+OmniSequential
+==============
+
+C++ Corrector Ortográfico
